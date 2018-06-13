@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6524cff4-5131-423d-8c71-eaf8442066ab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sort and star/sort_and_stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse sequence/reverse_sequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sort_and_stars.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sort_and_stars.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sort and star/sort_and_stars.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -23,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="reverse_sequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverse sequence/reverse_sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="45">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apport_python_hook.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -56,10 +65,11 @@
         <option value="$PROJECT_DIR$/pizza_price/pizza_price.py" />
         <option value="$PROJECT_DIR$/average_marks/average_marks.py" />
         <option value="$PROJECT_DIR$/sort and star/sort_and_stars.py" />
+        <option value="$PROJECT_DIR$/reverse sequence/reverse_sequence.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="851" />
     <option name="y" value="25" />
     <option name="width" value="515" />
@@ -73,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,18 +93,19 @@
             <path>
               <item name="road-to-kyu-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="road-to-kyu-1" type="462c0819:PsiDirectoryNode" />
-              <item name="average_marks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="road-to-kyu-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="road-to-kyu-1" type="462c0819:PsiDirectoryNode" />
-              <item name="sort and star" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reverse sequence" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sort_and_stars">
+  <component name="RunManager" selected="Python.reverse_sequence">
     <configuration name="all_star_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="road-to-kyu-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,24 +133,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all_star_counter/all_star_counter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="alternative_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="road-to-kyu-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alternative_text" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alternative_text/alternative_text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,6 +174,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="reverse_sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="road-to-kyu-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reverse sequence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverse sequence/reverse_sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="sort_and_stars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="road-to-kyu-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,19 +211,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.alternative_text" />
       <item itemvalue="Python.all_star_counter" />
       <item itemvalue="Python.pizza_price" />
       <item itemvalue="Python.average_marks" />
       <item itemvalue="Python.sort_and_stars" />
+      <item itemvalue="Python.reverse_sequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverse_sequence" />
         <item itemvalue="Python.sort_and_stars" />
         <item itemvalue="Python.average_marks" />
         <item itemvalue="Python.pizza_price" />
         <item itemvalue="Python.all_star_counter" />
-        <item itemvalue="Python.alternative_text" />
       </list>
     </recent_temporary>
   </component>
@@ -258,10 +268,24 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sort and star/sort_and_stars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alternative_text/alternative_text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -353,6 +377,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse sequence/reverse_sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>

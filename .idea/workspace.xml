@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6524cff4-5131-423d-8c71-eaf8442066ab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Jumping kangaroos/jumping_kangaros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pizza_price/pizza_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/average_marks/average_marks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum_positive/sum_positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/sum_positive/sum_positive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pizza_price/pizza_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/pizza_price/pizza_price.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pizza_price.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pizza_price.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pizza_price/pizza_price.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" lean-forward="true" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="average_marks.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/average_marks/average_marks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -92,6 +100,7 @@
         <option value="$PROJECT_DIR$/sum_positive/sum_positive.py" />
         <option value="$PROJECT_DIR$/Jumping kangaroos/jumping_kangaros.py" />
         <option value="$PROJECT_DIR$/pizza_price/pizza_price.py" />
+        <option value="$PROJECT_DIR$/average_marks/average_marks.py" />
       </list>
     </option>
   </component>
@@ -120,7 +129,7 @@
             <path>
               <item name="road-to-kyu-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="road-to-kyu-1" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza_price" type="462c0819:PsiDirectoryNode" />
+              <item name="average_marks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pizza_price">
+  <component name="RunManager" selected="Python.average_marks">
     <configuration name="all_star_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="road-to-kyu-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +181,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alternative_text/alternative_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="average_marks" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="road-to-kyu-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/average_marks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/average_marks/average_marks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,9 +245,11 @@
       <item itemvalue="Python.alternative_text" />
       <item itemvalue="Python.all_star_counter" />
       <item itemvalue="Python.pizza_price" />
+      <item itemvalue="Python.average_marks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.average_marks" />
         <item itemvalue="Python.pizza_price" />
         <item itemvalue="Python.all_star_counter" />
         <item itemvalue="Python.alternative_text" />
@@ -348,8 +377,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pizza_price/pizza_price.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="true" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/average_marks/average_marks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

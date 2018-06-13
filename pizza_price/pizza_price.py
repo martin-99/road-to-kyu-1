@@ -4,7 +4,7 @@ michael_part = 0.0
 kate_part = 0.0
 if costs <= 5:
     michael_part = costs
-elif costs > 5 and costs <= 10:
+elif costs > 5 and costs <= 30:
     kate_part = costs * 0.3
     michael_part = costs - kate_part
 else:
